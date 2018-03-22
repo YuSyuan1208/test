@@ -13,16 +13,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-=======
-            /*  public string 機構狀態 { get; set; }
-              public string 機構名稱 { get; set; }
-              public string 地址縣市別 { get; set; }
-              public string 地址鄉鎮市區 { get; set; }
-              public string 地址街道巷弄號 { get; set; }
-              public string 負責人姓名 { get; set; }
-              public string 電話 { get; set; }*/
->>>>>>> 0137efffcf466f7d5d1d545585423a10fcf5ceb3
             XmlDocument reader = new XmlDocument();
             reader.Load(@"C:\Users\昱軒\Desktop\高三下\多媒體系統\xml解析\35_1.xml");
             XmlNodeList NodeLists = reader.SelectNodes("dataList/rows");
