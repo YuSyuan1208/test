@@ -12,6 +12,7 @@ C:\Users\昱軒\Desktop\高三下\多媒體系統\xml解析\ConsoleApp1\ConsoleA
 C:\Users\昱軒\Desktop\高三下\多媒體系統\xml解析\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\昱軒\Desktop\高三下\多媒體系統\xml解析\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\昱軒\Desktop\高三下\多媒體系統\xml解析\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+<<<<<<< HEAD
 C:\Users\昱軒\Desktop\高三下\多媒體系統\test\xml解析\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
 C:\Users\昱軒\Desktop\高三下\多媒體系統\test\xml解析\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
 C:\Users\昱軒\Desktop\高三下\多媒體系統\test\xml解析\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
@@ -19,3 +20,5 @@ C:\Users\昱軒\Desktop\高三下\多媒體系統\test\xml解析\ConsoleApp1\Con
 C:\Users\昱軒\Desktop\高三下\多媒體系統\test\xml解析\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\昱軒\Desktop\高三下\多媒體系統\test\xml解析\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\昱軒\Desktop\高三下\多媒體系統\test\xml解析\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+=======
+>>>>>>> 0137efffcf466f7d5d1d545585423a10fcf5ceb3
